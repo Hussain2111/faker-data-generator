@@ -1,0 +1,21 @@
+{
+  "name": "imran-internship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^20.14.2",
+    "faker": "^6.6.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "uuid": "^10.0.0",
+    "xlsx": "^0.18.5"
+  }
+}

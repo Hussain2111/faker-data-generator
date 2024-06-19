@@ -1,0 +1,43 @@
+[
+  {
+    "columnName": "id",
+    "type": "string",
+    "length": 10
+  },
+  {
+    "columnName": "first_name",
+    "type": "string",
+    "length": 50
+  },
+  {
+    "columnName": "last_name",
+    "type": "string",
+    "length": 50
+  },
+  {
+    "columnName": "sex",
+    "type": "string",
+    "length": 100
+  },
+  {
+    "columnName": "date_of_birth",
+    "type": "string",
+    "length": 100
+  },
+  {
+    "columnName": "phone",
+    "type": "number",
+    "length": 8
+  },
+  {
+    "columnName": "email",
+    "type": "string",
+    "length": 100
+  },
+  {
+    "columnName": "address",
+    "type": "string",
+    "length": 100
+  }
+]
+
